@@ -26,8 +26,8 @@ The **shared trunk** (Phases 1–7) is identical. Phase 8 is the FDE-specific la
 |---|---|---|---|
 | 1 | [[Phase-1-Foundations/00-Phase-1-Index\|Software & Python Foundations]] | Write, test, version, and containerize real Python programs; call and build HTTP APIs; query SQL | 6–10 wks |
 | 2 | [[Phase-2-ML-Deep-Learning/00-Phase-2-Index\|ML & Deep Learning Foundations]] | Explain & implement gradient descent, neural nets, backprop in PyTorch; evaluate models properly | 4–6 wks |
-| 3 | **Transformers & LLM Internals** | Explain tokenization, embeddings, attention, pretraining → SFT → RLHF/DPO/RLVR, KV cache, sampling, context windows | 4–6 wks |
-| 4 | **Building with LLM APIs** | Prompting, structured outputs, tool use, streaming, caching, multimodal, context engineering, cost control | 3–4 wks |
+| 3 | [[Phase-3-Transformers-LLM-Internals/00-Phase-3-Index\|Transformers & LLM Internals]] | Explain tokenization, embeddings, attention, pretraining → SFT → RLHF/DPO/RLVR, KV cache, sampling, context windows | 4–6 wks |
+| 4 | [[Phase-4-Building-with-LLM-APIs/00-Phase-4-Index\|Building with LLM APIs]] | Prompting, structured outputs, tool use, streaming, caching, multimodal, context engineering, cost control | 3–4 wks |
 | 5 | **RAG & Knowledge Systems** | Build & debug retrieval systems: chunking, embeddings, vector/hybrid search, reranking, GraphRAG, RAG evals | 4–5 wks |
 | 6 | **Agents, Tools & MCP** | Design agent loops, tool schemas, memory, multi-agent systems, MCP servers, guardrails | 4–6 wks |
 | 7 | **Evals, Observability & LLMOps** | Build eval suites, LLM-as-judge, tracing, CI for prompts, serving, fine-tuning (LoRA), security (prompt injection) | 5–6 wks |
