@@ -31,7 +31,7 @@ The **shared trunk** (Phases 1–7) is identical. Phase 8 is the FDE-specific la
 | 5 | [[Phase-5-RAG-Knowledge-Systems/00-Phase-5-Index\|RAG & Knowledge Systems]] | Build & debug retrieval systems: chunking, embeddings, vector/hybrid search, reranking, GraphRAG, RAG evals | 4–5 wks |
 | 6 | [[Phase-6-Agents-Tools-MCP/00-Phase-6-Index\|Agents, Tools & MCP]] | Design agent loops, tool schemas, memory, multi-agent systems, MCP servers, guardrails | 4–6 wks |
 | 7 | [[Phase-7-Evals-Observability-LLMOps/00-Phase-7-Index\|Evals, Observability & LLMOps]] | Build eval suites, LLM-as-judge, tracing, CI for prompts, serving, fine-tuning (LoRA), security (prompt injection) | 5–6 wks |
-| 8 | **Forward Deployed Engineering** | Run discovery, scope, prototype fast, integrate with enterprise systems, handle security/compliance, demo & communicate | 4–5 wks |
+| 8 | [[Phase-8-Forward-Deployed-Engineering/00-Phase-8-Index\|Forward Deployed Engineering]] | Run discovery, scope, prototype fast, integrate with enterprise systems, handle security/compliance, demo & communicate | 4–5 wks |
 | 9 | **Advanced Frontier + Career** | Reasoning models, MoE, quantization, distillation, interpretability, paper reading, system-design interviews, portfolio, job hunt | ongoing |
 
 ## Per-phase deliverables (every phase has all of these)
