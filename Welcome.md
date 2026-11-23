@@ -9,6 +9,6 @@ Start here → [[00-Roadmap]]
 - [[Phase-4-Building-with-LLM-APIs/00-Phase-4-Index|Phase 4 — Building with LLM APIs]] ✅ written
 - [[Phase-5-RAG-Knowledge-Systems/00-Phase-5-Index|Phase 5 — RAG & Knowledge Systems]] ✅ written
 - [[Phase-6-Agents-Tools-MCP/00-Phase-6-Index|Phase 6 — Agents, Tools & MCP]] ✅ written
-- Phase 7 — Evals, Observability & LLMOps *(not yet written)*
+- [[Phase-7-Evals-Observability-LLMOps/00-Phase-7-Index|Phase 7 — Evals, Observability & LLMOps]] ✅ written
 - Phase 8 — Forward Deployed Engineering *(not yet written)*
 - Phase 9 — Advanced Frontier + Career *(not yet written)*
